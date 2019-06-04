@@ -1,8 +1,9 @@
 export const FireBaseConfig = {
-  apiKey: "<YOUR_API_KEY>",
-  authDomain: "<YOUR_AUTH_DOMAIN>",
-  databaseURL: "<YOUR_DATABASE_URL>",
-  projectId: "<YOUR_PROJECT_ID>",
-  storageBucket: "<YOUR_STORAGE_BUCKETS>",
-  messagingSenderId: "<YOUR_MESSAGING_SENDER_ID>"
+  apiKey: "AIzaSyAg0tqdHKEnV_lFjfE3jtk0vBVux9OWWM0",
+  authDomain: "istiendademascotas.firebaseapp.com",
+  databaseURL: "https://istiendademascotas.firebaseio.com",
+  projectId: "istiendademascotas",
+  storageBucket: "istiendademascotas.appspot.com",
+  messagingSenderId: "365035296353",
+  appId: "1:365035296353:web:791065575b908433"
 };
